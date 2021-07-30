@@ -1,7 +1,4 @@
 ## Olá! Me chamo Vinicius Martins
-
-- 💻 Estudo Desenvolvimento de Sistemas
-  
   
 <div>
   <a href="https://github.com/ViniciusM11">
