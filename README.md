@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/vinicius-martins-947269201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/viniciusmartinsv11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Viniciu90699842" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-   
-   
+
 ##
 ![Snake animation](https://github.com/ViniciusM11/ViniciusM11/blob/output/github-contribution-grid-snake.svg)
+</div> 
