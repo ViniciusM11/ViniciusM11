@@ -1,7 +1,7 @@
 ## Olá!! Me chamo Vinicius Martins
   
   - 🌱 Dev iniciante
-  - 🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC 
+  - 🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC de Barueri
   - 📚 Interesses: Java, Html, Css, Bootstrap, Javascript, Python
   - 🎮 Hobbies: Jogar e assistir anime
   - 🍽️ Stroggonoff
