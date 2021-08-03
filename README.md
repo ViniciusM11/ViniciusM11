@@ -1,4 +1,4 @@
-## Olá!! Me chamo Vinicius Martins
+## 🦊 Olá!! Me chamo Vinicius Martins 
   
   - 🌱 Dev iniciante
   - 🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC de Barueri
@@ -34,7 +34,7 @@
 ##
 ![Snake animation](https://github.com/ViniciusM11/ViniciusM11/blob/output/github-contribution-grid-snake.svg)
 
-## Total De Espiadas
+## 👀 ESPIADAS NO PERFIL
   <br>
  <div align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/ViniciusM11/count.svg"/>
