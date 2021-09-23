@@ -2,7 +2,7 @@
   
   - 🌱 Dev iniciante
   - 🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC de Barueri
-  - 📚 Interesses: Java, HTML, CSS, Bootstrap, Javascript, Python
+  - 📚 Interesses: HTML, CSS, Javascript, Python
   - 🎮 Hobbies: Jogar, Assistir Animes e Séries, Desenhar
   - 🍽️ Stroggonoff
   
