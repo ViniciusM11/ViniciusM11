@@ -1,6 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-  <iframe src="https://giphy.com/embed/oU6KTPjDFhsZl8iteA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-  <p><a href="https://giphy.com/gifs/leagueoflegends-league-of-legends-vi-riot-music-oU6KTPjDFhsZl8iteA">via GIPHY</a></p>
+
 
 ## 🦊 Olá!! Me chamo Vinicius Martins 
   
@@ -10,6 +8,10 @@
   - 🎮 Hobbies: Jogar, Assistir Animes e Séries, Desenhar
   - 🍽️ Stroggonoff
   
+  
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+  <iframe src="https://giphy.com/embed/oU6KTPjDFhsZl8iteA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <p><a href="https://giphy.com/gifs/leagueoflegends-league-of-legends-vi-riot-music-oU6KTPjDFhsZl8iteA">via GIPHY</a></p>
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:viniciusmartins01112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-martins-947269201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
