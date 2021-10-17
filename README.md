@@ -1,45 +1,66 @@
+<div align="center"
+   <h1>VINICIUS MARTINS</h1>
+<div/>
 
-![Alt Text](https://tenor.com/view/lofi-corpse-husband-agoraphobic-gif-18895367)
+
+<div align="center"><br>
+   <img width="600" height="300" src="https://media1.giphy.com/media/ggKcYuG0MzJhOzyGCd/giphy.gif?cid=ecf05e47p3pqu7yww2j2aylvasvo47rycp0jyllbr6u6jy0c&rid=giphy.gif&ct=g"/>
   
+   <p>🌱 Dev iniciante</p>
+   <p>🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC de Barueri</p>
+   <p> 📚 Interesses: HTML, CSS, Javascript, Python</p>
+   <p> 🎮 Hobbies: Jogar, Assistir Animes e Séries, Desenhar</p>
+   <p> 🍽️ Stroggonoff</p>
   
-Olá!! Me chamo Vinicius Martins 
-  
-  - 🌱 Dev iniciante
-  - 🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC de Barueri
-  - 📚 Interesses: HTML, CSS, Javascript, Python
-  - 🎮 Hobbies: Jogar, Assistir Animes e Séries, Desenhar
-  - 🍽️ Stroggonoff
+</div>
+
+##
+
+<div align="center"
+   <h1>REDES SOCIAIS</h1>
+<div/>
 
 <div align="center" style="display: inline_block"><br>
-  <a href = "mailto:viniciusmartins01112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-martins-947269201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/viniciusmartinsv11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Viniciu90699842" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:viniciusmartins01112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/vinicius-martins-947269201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/viniciusmartinsv11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://twitter.com/Viniciu90699842" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
   
 ##
 
 <div align="center"><br>
-  <a href="https://github.com/ViniciusM11">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusM11&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusM11&layout=compact&langs_count=7&theme=monokai"/>
+   <a href="https://github.com/ViniciusM11">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusM11&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusM11&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
+##
+  
+<div align="center"
+   <h1>APRENDENDO</h1>
+<div/>
+  
 <div align="center"><br>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
+  ##
 
-##
-![Snake animation](https://github.com/ViniciusM11/ViniciusM11/blob/output/github-contribution-grid-snake.svg)
-
-## 👀 ESPIADAS NO PERFIL
-  <br>
- <div align="center"> 
+<div align="center">
+   <img width="750" height="300" src="https://github.com/ViniciusM11/ViniciusM11/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+  
+  
+<div align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/ViniciusM11/count.svg"/>
- </div>
+</div>
