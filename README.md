@@ -1,23 +1,24 @@
 <div align="center"
-   <h1>VINICIUS MARTINS</h1>
+   <h3>VINICIUS MARTINS</h3>
 <div/>
 
 
 <div align="center"><br>
-   <img width="600" height="300" src="https://media1.giphy.com/media/ggKcYuG0MzJhOzyGCd/giphy.gif?cid=ecf05e47p3pqu7yww2j2aylvasvo47rycp0jyllbr6u6jy0c&rid=giphy.gif&ct=g"/>
-  
+   <img width="300" height="300" src="https://media1.giphy.com/media/ggKcYuG0MzJhOzyGCd/giphy.gif?cid=ecf05e47p3pqu7yww2j2aylvasvo47rycp0jyllbr6u6jy0c&rid=giphy.gif&ct=g"/>
+</div>
+
+<div align="center"><br>
    <p>🌱 Dev iniciante</p>
    <p>🍁 2° Módulo de Desenvolvimento de Sistemas - ETEC de Barueri</p>
    <p> 📚 Interesses: HTML, CSS, Javascript, Python</p>
    <p> 🎮 Hobbies: Jogar, Assistir Animes e Séries, Desenhar</p>
-   <p> 🍽️ Stroggonoff</p>
-  
+   <p> 🍽️ Stroggonoff</p> 
 </div>
 
 ##
 
 <div align="center"
-   <h1>REDES SOCIAIS</h1>
+   <h3>REDES SOCIAIS</h3>
 <div/>
 
 <div align="center" style="display: inline_block"><br>
@@ -38,7 +39,7 @@
 ##
   
 <div align="center"
-   <h1>APRENDENDO</h1>
+   <h3>APRENDENDO</h3>
 <div/>
   
 <div align="center"><br>
