@@ -39,7 +39,7 @@
 ##
   
 <div align="center"
-   <h3 style="text-decoration: none;">ESTUDANDO</h3>
+   <h3">ESTUDANDO</h3>
 <div/>
   
 <div align="center"><br
